@@ -1,6 +1,6 @@
 # phoenix_gen_stealer.exs
 
-(Not to be confused with a [Gensetealer](http://wh40k.lexicanum.com/wiki/Genestealer))
+(Not to be confused with a [Genestealer](http://wh40k.lexicanum.com/wiki/Genestealer))
 
 This is a small script I've written to help write customized Phoenix generators.
 When run inside a mix project (with `mix run phoenix_gen_stealer.exs`), it will do the following:
